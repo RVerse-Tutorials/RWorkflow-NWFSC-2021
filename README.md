@@ -24,3 +24,8 @@ How to edit and build website.
 
 There is lots of old material in the repo. Old weeks material.
 
+## Re-use Statement
+
+This work is released under a Creative Commons license. You are free to use, copy and adapt the material. It'd be nice if you gave me credit, but this is not required.
+
+
